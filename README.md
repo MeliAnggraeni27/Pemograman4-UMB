@@ -68,7 +68,7 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
 ## Tampilan Login 
 ![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/login.png?raw=true)
 ## Tampilan Register
-![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/Register.png?raw=true)
+![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/register.png?raw=true)
 ## Login Gagal
 ![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/login%20gagal.png?raw=true)
 ## Password kurang dari 6 karakter
