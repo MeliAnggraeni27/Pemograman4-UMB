@@ -65,16 +65,16 @@ Sebuah aplikasi Android sederhana yang memungkinkan pengguna untuk melakukan reg
    - Menampilkan pesan: `Selamat Datang, [Nama User]`
 
 ---
-## 📱Tampilan Login 
-![alt text](?raw=true)
-## 📲Tampilan Register
-![alt text](?raw=true)
-## 📵Login Gagal
-![alt text](?raw=true)
-## ⛔Password kurang dari 6 karakter
-![alt text](?raw=true)
-## ✅Login Berhasil
-![alt text](?raw=true)
+## Tampilan Login 
+![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/login.png?raw=true)
+## Tampilan Register
+![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/Register.png?raw=true)
+## Login Gagal
+![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/login%20gagal.png?raw=true)
+## Password kurang dari 6 karakter
+![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/password%20kurang.png?raw=true)
+## Login Berhasil
+![alt text](https://github.com/MeliAnggraeni27/Pemograman4-UMB/blob/master/gambar/login%20berhasil.png?raw=true)
 ## 🛠️ Tools & Teknologi
 
 - Java
