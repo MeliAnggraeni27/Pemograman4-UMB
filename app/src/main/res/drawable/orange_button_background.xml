@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="#FFCC80"> <!-- Ripple warna oranye muda -->
+    android:color="#D7BFDC"> <!-- Ripple warna oranye muda -->
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="#FFA500" /> <!-- Warna oranye -->
+            <solid android:color="#D7BFDC" /> <!-- Warna oranye -->
             <corners android:radius="50dp" /> <!-- Rounded -->
         </shape>
     </item>
